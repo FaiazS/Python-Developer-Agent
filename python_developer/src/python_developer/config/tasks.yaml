@@ -1,0 +1,11 @@
+coding_task:
+
+  description: >
+       Write python code to acheive this: {task}
+
+  expected_output: >
+       A text file that includes the code itself, and the output of the code.
+
+  agent: software_developer
+  
+  output_file: output/code_and_output.txt
